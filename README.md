@@ -19,5 +19,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O gerador de senhas é um aplicativo qur pode ser usado para gerar senhas em 3 níveis de segurança
 
-- [visite o projeto online](https://maxcanoas.github.io/nlw-setup)
+- [visite o projeto online](https://maxcanoas.github.io/password-generator)
 ---
