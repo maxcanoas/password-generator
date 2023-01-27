@@ -67,7 +67,7 @@ main {
 }
 
 .password .text input.font-xxs {
-  font-size: 0.1rem;
+  font-size: 1rem;
 }
 
 .password .actions button {
@@ -155,7 +155,7 @@ main {
   cursor: pointer;
 }
 
-.customize .password-length .slider::-moz-range-progress {
+.customize .password-length .slider::-moz-range-thumb {
   width: 25px;
   height: 25px;
   border-radius: 25px;
@@ -232,7 +232,7 @@ main {
   transition: all0.2s;
 }
 
-.submit button:hover{
+.submit button:hover {
   background-color: #9b51e0;
 }
 
@@ -256,5 +256,3 @@ main {
     width: 24px;
   }
 }
-
-
